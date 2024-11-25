@@ -51,7 +51,7 @@
     "enzyme-adapter-react-16": "^1.15.6",
     "enzyme-to-json": "^3.6.2",
     "eslint": "^8.23.1",
-    "eslint-config-next": "^12.3.0",
+    "eslint-config-next": "^13.1.1",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-tailwindcss": "^3.6.1",
     "inquirer": "^8.2.4",
